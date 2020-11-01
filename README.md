@@ -1,1 +1,2 @@
 # vscode-setting-config
+为了在一些场景下不能用vscode-config-async同步vscode的设置配置所启用的仓库，方便快速同步vscode的配置
